@@ -1,0 +1,67 @@
+estilo.css
+ <! – Lucas Azzi Araujo //–>
+
+	
+
+
+
+
+body {
+font-family:times new roman
+}
+
+h1{
+font-size: 30px;
+color: #ff6600;
+
+
+
+}
+
+
+h2{
+
+float:right;
+width: 700px;
+
+
+}
+
+#bola_oval{
+
+height:500px;
+border-radius:;
+
+
+
+}
+
+#liberdade{
+
+height:500px;
+float:right;
+width:600px;
+
+
+
+}
+
+#mato{
+
+height:600px;
+float:right;
+width: 600px;
+
+
+}
+
+#masp {
+
+height:600px;
+float:right;
+width: 600px;
+
+
+	
+
+}
